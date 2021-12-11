@@ -2,6 +2,5 @@
 
 This a Tribute page for Harry Styles 
 
-https://github.com/alzoo9340/Tribute-page-for-harry-styles.git
-
+https://alzoo9340.github.io/Tribute-page-for-harry-styles/
 Hope you enjoy my page!!!!!!!!
